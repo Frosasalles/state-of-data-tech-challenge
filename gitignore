@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Power BI
+*.pbix
+
+# AWS temporary files
+*.tmp
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Credentials (NUNCA subir)
+*.env
+*.key
+*.pem
